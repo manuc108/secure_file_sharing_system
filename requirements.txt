@@ -1,0 +1,9 @@
+Flask~=3.0.3
+Flask-PyMongo~=2.3.0
+pymongo~=4.9.1
+Werkzeug~=3.0.4
+python-dotenv~=1.0.1
+PyJWT~=2.9.0
+pytest~=8.3.3
+python-magic~=0.4.27
+smtp2go~=2.3.1

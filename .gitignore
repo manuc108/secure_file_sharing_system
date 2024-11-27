@@ -1,0 +1,10 @@
+/.idea
+/venv
+myenv/
+__pycache__/
+
+/.env
+/uploads/
+/tests/uploads/
+
+
