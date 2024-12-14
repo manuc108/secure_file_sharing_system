@@ -1,8 +1,8 @@
 ## Secure File Sharing System
 <hr>
 
-### Backend Assessment for EZ Works
-This project is a secure file-sharing system implemented as part of the backend engineer assessment for **EZ Works**. <br>
+### Backend Project
+This project is a secure file-sharing system implemented as part of the backend project <br>
 
 Once verified, login into your account and you will recieve a token. Add it to the `Authorization` header to make protected requests. <br>
 You can now list files, generate download links and download the files. <br>
@@ -12,7 +12,7 @@ It provides a RESTful API for secure file upload, download, and management betwe
 
 ### Features
 #### Technology Stack
-- **Framework**: Flask
+- **Framework**: Flask/Fastapi
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **File Type Detection**: python-magic
@@ -58,4 +58,4 @@ It provides a RESTful API for secure file upload, download, and management betwe
 <hr>
 
 
-# secure_file_sharing_system_ezworks_assesment
+# secure_file_sharing_system
